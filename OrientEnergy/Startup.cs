@@ -42,7 +42,7 @@ namespace OrientEnergy
                     PeakTimeMultiplier = new List<PeakTimeMultiplier>()
                 },
                 new PricePlan{
-                    EnergySupplier = Enums.Supplier.BravoEnergy,
+                    EnergySupplier = Enums.Supplier.NeurondPower,
                     UnitRate = 1m,
                     PeakTimeMultiplier = new List<PeakTimeMultiplier>()
                 }
